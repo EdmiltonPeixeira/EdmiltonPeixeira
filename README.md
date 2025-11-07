@@ -1,8 +1,8 @@
-<h1 align="center">Olá, Mundo! Me chamo Edmilton. Bem-vindo ao meu perfil.</h1>
+<h1 align="center">Olá, Mundo! Me chamo Edmilton. Bem-vindo ao meu perfil. </h1>
 
 <div align="center"><img src="Imagens/anime-house.gif" width="700" height="500"/></div><br>
 
-<div align="center"><h3>💻 Atualmente trabalho como Desenvolvedor back-end e front-end<br><br>🍃 Estudando as tecnologias Spring Boot, Typescript, Vue.js e Quasar</h3><br></div>
+<div align="center"><h3>💻 Iniciei minha carreira como desenvolvedor em 2021, no setor previdencário, atuando em sistema legado monolito com Java e arquitetura MVC, participando também na migração do projeto para tecnologias como Java 17, Spring Boot e Vue.js. Em 2024 participei de um projeto no setor fiscal, atuando com tecnologias legado em um sistema monolito e stacks mais recentes semelhantes às citadas. A partir de 2025, passei a atuar em um projeto do setor tributário, também com arquitetura microsserviços.<br><br></h3><br></div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="left">Entre em contato:</h3>
 
 <a href="https://www.linkedin.com/in/edmilton-ribeiro-peixeira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -15,7 +15,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/quasar-logo.svg" alt="Quasar" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+
 <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
